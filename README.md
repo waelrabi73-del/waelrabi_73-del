@@ -1,76 +1,52 @@
-# Hi, I'm Sayil Othman 👋
-
-I am a WordPress Support Specialist and Web Developer with hands-on experience building, customizing, troubleshooting, and maintaining responsive websites.
-
-I enjoy helping businesses and website owners solve technical issues, improve website performance, and create professional WordPress websites that are easy to manage.
-
-## About Me
-
-* 💻 I work with WordPress, Elementor, WooCommerce, HTML, CSS, and JavaScript.
-* 🛠️ I have experience with website troubleshooting, plugin conflicts, responsive issues, website speed optimization, and content updates.
-* 🚀 I can build and customize WordPress websites for businesses, portfolios, landing pages, and e-commerce stores.
-* 🔄 I have experience with website migration, backups, basic hosting tasks, and WordPress administration.
-* 📚 I am continuously improving my skills in PHP, GitHub, React, and modern web development tools.
-* 🌍 Available for remote WordPress support, website maintenance, and web development opportunities.
-
-## Skills & Tools
-
-<p>
-  <img height="35" alt="WordPress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-  <img height="35" alt="Elementor" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-  <img height="35" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="35" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="35" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="35" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img height="35" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="35" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</p>
-
-## What I Can Help With
-
-* WordPress website setup and customization
-* Elementor page building and responsive design
-* WooCommerce store setup and product management
-* Website troubleshooting and plugin conflict fixes
-* Website speed and performance improvements
-* Content updates and website maintenance
-* Basic website migration, backups, and hosting tasks
-* HTML, CSS, JavaScript, and basic PHP edits
-
-## GitHub Stats
-
-| GitHub Stats                                                                                                                                                               | Top Languages                                                                                                                                                                 |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayilothman&show_icons=true&theme=transparent&hide_border=true" alt="Sayil's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayilothman&layout=compact&theme=transparent&hide_border=true" alt="Top languages" /> |
-
-## Featured Projects
-
-### 🌍 Travel Company Website
-
-A responsive tourism website built using HTML, CSS, and JavaScript, featuring tourism offers, navigation sections, service pages, and a modern user-friendly layout.
-
-### 🛍️ WordPress & WooCommerce Websites
-
-Experience building and managing WordPress websites, including product pages, content updates, Elementor layouts, responsive fixes, and website maintenance.
-
-### ⚡ Website Performance Optimization
-
-Worked on improving website loading speed through image optimization, caching configuration, and performance testing tools.
-
-## Connect With Me
-
-<p>
+<p align="center">
   <a href="https://github.com/sayilothman">
-    <img src="https://img.shields.io/badge/GitHub-sayilothman-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="YOUR-LINKEDIN-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="YOUR-PORTFOLIO-LINK">
-    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-000000?style=for-the-badge&logo=googlechrome" alt="Portfolio" />
+    <img width="80%" alt="Hello, I'm Sayil Othman. WordPress Support Specialist and Web Developer." src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=900&color=2F81F7&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Sayil+Othman+%F0%9F%91%8B;WordPress+Support+Specialist+%26+Web+Developer;Building%2C+Fixing%2C+and+Improving+Websites" />
   </a>
 </p>
 
----
+<br />
 
-⭐ I am always learning, building, and looking for opportunities to grow as a WordPress Support Specialist and Web Developer.
+I'm a passionate WordPress Support Specialist and Web Developer from Jordan 🇯🇴
+
+**About me**
+
+* 💼 WordPress Support Specialist and Web Developer
+
+* 🛠️ I build, customize, maintain, and troubleshoot WordPress websites
+
+* ⚡ I work with website speed optimization, caching, responsive design, plugin issues, backups, and migrations
+
+* 🛒 I have hands-on experience with Elementor, WooCommerce, WordPress Administration, HTML, CSS, JavaScript, and basic PHP
+
+* 🌍 Open to remote WordPress Support, Website Maintenance, and Web Development opportunities
+
+* 💬 Ask me about WordPress, Elementor, WooCommerce, website performance, and troubleshooting
+
+<code><img height="25" alt="wordpress" src="https://raw.githubusercontent.com/github/explore/main/topics/wordpress/wordpress.png"></code> <code><img height="25" alt="html" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code> <code><img height="25" alt="css" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code> <code><img height="25" alt="javascript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code> <code><img height="25" alt="php" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code> <code><img height="25" alt="woocommerce" src="https://raw.githubusercontent.com/github/explore/main/topics/woocommerce/woocommerce.png"></code> <code><img height="25" alt="git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code> <code><img height="25" alt="github" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
+
+<br />
+<br />
+
+| <a href="https://github.com/sayilothman"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sayilothman&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sayil's GitHub stats" /></a> | <a href="https://github.com/sayilothman"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayilothman&layout=compact&theme=buefy&hide_border=true" alt="Sayil's top languages" /></a> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+#### Featured Projects
+
+<a href="https://github.com/sayilothman/YOUR-TRAVEL-WEBSITE-REPOSITORY">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sayilothman&repo=YOUR-TRAVEL-WEBSITE-REPOSITORY&theme=buefy" />
+</a>
+
+<a href="https://github.com/sayilothman/YOUR-WORDPRESS-PROJECT-REPOSITORY">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sayilothman&repo=YOUR-WORDPRESS-PROJECT-REPOSITORY&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+<a href="https://github.com/sayilothman">
+  <img align="right" alt="Sayil Othman | GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
+</a>
+
+<a href="YOUR-LINKEDIN-LINK">
+  <img align="right" alt="Sayil Othman | LinkedIn" width="22px" src="https://raw.githubusercontent.com/github/explore/main/topics/linkedin/linkedin.png" />
+</a>
